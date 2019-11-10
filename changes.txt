@@ -1,0 +1,4 @@
+sp > speed
+dir > direction
+pos > position
+wobble > patrolWidth
